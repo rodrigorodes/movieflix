@@ -1,0 +1,91 @@
+{
+  "categorias": [
+    {
+      "titulo": "Techno",
+      "link": "https://soundcloud.com/hectorcouto/hector-couto-b2b-darius-syrossian",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Techno e Tech House - Electronic Music",
+        "url": "https://soundcloud.com/portekmusik"
+      },
+      "videos": [
+        {
+          "titulo": "Portek Timecode Vinyl #01",
+          "url": "https://www.youtube.com/watch?v=X4mozPzQ6Fw&t=1322s"
+        },
+        {
+          "titulo": "Awakenings 2019 - Mr Adam Beyer",
+          "url": "https://www.youtube.com/watch?v=_4eUkff6vzQ"
+        },
+        {
+          "titulo": "Hector Couto Live Mix @ Roush Label & B4Bookings",
+          "url": "https://www.youtube.com/watch?v=xuOnCfHwL0E"
+        },
+        {
+          "titulo": "Marco Carola Live from Space Miami",
+          "url": "https://www.youtube.com/watch?v=vrxOQWJOLFY&t=628s"
+        },
+        {
+          "titulo": "Portek - Walking Live Set",
+          "url": "https://www.youtube.com/watch?v=nC-Z--Q2xNE&t=1653s"
+        },
+        {
+          "titulo": "Carl Cox Boiler Room Ibiza Villa",
+          "url": "https://www.youtube.com/watch?v=vy-k0FopsmY&t=1096s"
+        },
+        {
+          "titulo": "Joris Voorn w/ Audio Obscura @ Kinderdijk",
+          "url": "https://www.youtube.com/watch?v=bycZFC7agXA&t=463s"
+        }
+      ]
+    },
+    {
+      "titulo": "Progressive House & House",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Sébastien Léger Sundown Session at W Bali",
+          "url": "https://www.youtube.com/watch?v=jKAiXt45szI&t=1875s"
+        },
+        {
+          "titulo": "Roy Rosenfeld Echos",
+          "url": "https://www.youtube.com/watch?v=OG-9_R6x6ao&t=4007s"
+        },
+        {
+          "titulo": "Lee Burridge - Omnia Bali in Indonesia for Cercle",
+          "url": "https://www.youtube.com/watch?v=h96MGcsi7GQ&t=5455s"
+        }
+      ]
+    },
+    {
+      "titulo": "Trance & Psychodelic",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Astrix UP #2020",
+          "url": "https://www.youtube.com/watch?v=8eYEW4q42y8&t=3430s"
+        },
+        {
+          "titulo": "Zyce @ Universo Paralello 2020",
+          "url": "https://www.youtube.com/watch?v=iBEPeNmI1ro&t=1154s"
+        },
+        {
+          "titulo": "Ace Ventura in Portugal for Boom Festival 2018",
+          "url": "https://www.youtube.com/watch?v=OPHSN-apJr8&t=371s"
+        },
+        {
+          "titulo": "Mix Uplifting trance 2020 | July ",
+          "url": "https://www.youtube.com/watch?v=moDFP-GrPDg"
+        }
+      ]
+    }
+  ]
+}
